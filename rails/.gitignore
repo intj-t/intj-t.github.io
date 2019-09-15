@@ -1,0 +1,6 @@
+/coverage
+/rdoc
+/forme-*.gem
+*.rbc
+/log
+/Gemfile.lock
