@@ -3398,6 +3398,21 @@ input, select, textarea {
     margin-left: 13px;
     left: 100%;  
 }
+        
+        .collapsibleList li{
+  list-style-image : url('button.png');
+  cursor           : auto;
+}
+
+li.collapsibleListOpen{
+  list-style-image : url('button-open.png');
+  cursor           : pointer;
+}
+
+li.collapsibleListClosed{
+  list-style-image : url('button-closed.png');
+  cursor           : pointer;
+}
 
 
 	}
